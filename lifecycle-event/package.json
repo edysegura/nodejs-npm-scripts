@@ -1,0 +1,13 @@
+{
+  "name": "lifecycle-event",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node npm-lifecycle-event.js",
+    "build": "node npm-lifecycle-event.js",
+    "test": "node npm-lifecycle-event.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
