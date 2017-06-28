@@ -1,0 +1,13 @@
+{
+  "name": "crossenv",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node cross-env-example.js",
+    "dev": "cross-env NODE_ENV=development node cross-env-example.js",
+    "test": "cross-env NODE_ENV=testing node cross-env-example.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
