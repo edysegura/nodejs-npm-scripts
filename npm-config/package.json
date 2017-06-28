@@ -1,0 +1,16 @@
+{
+  "name": "npm-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "host": "localhost",
+    "port": 8080
+  },
+  "scripts": {
+    "start": "node npm-config.js &"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
