@@ -8,7 +8,9 @@
     "port": 8080
   },
   "scripts": {
-    "start": "node npm-config.js &"
+    "start": "node npm-config.js",
+    "setup-dev": "npm config set host dev.com.br",
+    "setup-prod": "npm config set host prod.com.br"
   },
   "keywords": [],
   "author": "",
