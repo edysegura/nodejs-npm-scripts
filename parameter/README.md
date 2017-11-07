@@ -9,3 +9,7 @@ This is a simple example to demonstrate how to pass a parameter to a NPM script
 or
 
 ```npm start param1 param2```
+
+## Live demo
+
+![Live demo](npm-scripts.gif)
