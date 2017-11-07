@@ -1,0 +1,10 @@
+{
+  "name": "parameter",
+  "version": "1.0.0",
+  "main": "parameter.js",
+  "scripts": {
+    "start": "node ./parameter.js"
+  },
+  "author": "Edy Segura",
+  "license": "MIT"
+}
