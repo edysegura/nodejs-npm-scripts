@@ -1,0 +1,7 @@
+{
+  "build": {
+    "number": "{{BUILD_NUMBER}}",
+    "date": "{{BUILD_DATE}}",
+    "commitId": "{{COMMIT_ID}}"
+  }
+}
