@@ -1,0 +1,9 @@
+{
+  "name": "update-build-info",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node ./update-build-info.js"
+  },
+  "author": "Edy Segura",
+  "license": "MIT"
+}

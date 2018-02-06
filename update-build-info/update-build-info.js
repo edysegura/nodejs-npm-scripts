@@ -14,7 +14,7 @@ const commitId = childProcess
 const build = config.build
 const date = Date.now()
 
-build.number = process.env.BUILD_NUMBER || '000'
+build.number = process.env.BUILD_NUMBER || '001'
 build.date = date
 build.commitId = commitId
 
