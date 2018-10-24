@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "dotenv": "^6.1.0"
+  }
+}
