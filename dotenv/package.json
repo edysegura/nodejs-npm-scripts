@@ -1,5 +1,8 @@
 {
   "private": true,
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
   "devDependencies": {
     "dotenv": "^6.1.0"
   }
