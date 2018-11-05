@@ -1,5 +1,5 @@
 const ervy = require('ervy')
-const { bar } = ervy
+const { bar, bullet } = ervy
 
 const data = [
   { key: 'A', value: 30, style: '+' },
@@ -7,4 +7,7 @@ const data = [
   { key: 'C', value: 50, style: '#' }
 ]
 
+console.log('-------------------')
 console.log(bar(data))
+console.log('-------------------')
+console.log(bullet(data))
