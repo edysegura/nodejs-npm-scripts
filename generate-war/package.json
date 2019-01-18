@@ -1,0 +1,11 @@
+{
+  "name": "generate-war",
+  "scripts": {
+    "generate-war": "node index"
+  },
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "zip-folder": "^1.0.0"
+  }
+}
