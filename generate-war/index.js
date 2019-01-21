@@ -1,3 +1,5 @@
+'use strict'
+
 const zipFolder = require('zip-folder')
 const fs = require('fs')
 
