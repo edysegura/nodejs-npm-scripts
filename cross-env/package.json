@@ -1,6 +1,6 @@
 {
   "name": "crossenv",
-  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "start": "cross-env NODE_ENV=production node cross-env-example.js",
     "dev": "cross-env NODE_ENV=development node cross-env-example.js",
@@ -10,5 +10,4 @@
   "devDependencies": {
     "cross-env": "^5.0.5"
   },
-  "dependencies": {}
 }
