@@ -1,0 +1,8 @@
+{
+  "name": "progress-bar",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}
