@@ -1,6 +1,9 @@
 {
   "name": "progress-bar",
   "private": true,
+  "scripts": {
+    "start": "node ./index"
+  },
   "license": "ISC",
   "dependencies": {
     "progress": "^2.0.3"
