@@ -14,6 +14,6 @@ const questions = [
 ]
 
 inquirer.prompt(questions).then(answers => {
-  console.log(`Language: ${answers['language']}!`)
-  console.log(`Framework: ${answers['framework']}!`)
+  console.log(`Language: ${answers.language}!`)
+  console.log(`Framework: ${answers.framework}!`)
 })
