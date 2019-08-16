@@ -1,4 +1,7 @@
 const chalk = require('chalk')
 
-//console.log('\x1b[33m%s\x1b[0m', 'hi!')
-console.log(chalk.yellow('hi!'))
+console.log(`
+  CPU: ${chalk.red('90%')}
+  RAM: ${chalk.green('40%')}
+  DISK: ${chalk.yellow('70%')}
+`)
