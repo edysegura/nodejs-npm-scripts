@@ -1,0 +1,7 @@
+{
+  "name": "stdin-inquirer",
+  "private": true,
+  "dependencies": {
+    "inquirer": "^6.5.1"
+  }
+}
