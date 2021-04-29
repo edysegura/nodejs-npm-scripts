@@ -4,8 +4,9 @@
   "description": "",
   "scripts": {
     "start": "node npm-lifecycle-event.js",
-    "build": "node npm-lifecycle-event.js",
-    "test": "node npm-lifecycle-event.js"
+    "start:dev": "node npm-lifecycle-event.js",
+    "test": "node npm-lifecycle-event.js",
+    "build": "node npm-lifecycle-event.js"
   },
   "keywords": [],
   "author": "",
