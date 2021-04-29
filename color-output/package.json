@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "chalk": "^2.4.2"
+    "chalk": "^4.1.1"
   }
 }
