@@ -2,6 +2,9 @@
   "name": "color-output",
   "private": true,
   "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
   "dependencies": {
     "chalk": "^4.1.1"
   }
