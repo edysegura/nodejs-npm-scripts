@@ -1,4 +1,5 @@
-const ervy = require('ervy')
+import ervy from 'ervy'
+
 const { bar, bullet } = ervy
 
 const data = [
