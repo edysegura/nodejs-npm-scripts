@@ -1,5 +1,6 @@
 {
   "name": "generate-war",
+  "type": "module",
   "scripts": {
     "generate-war": "node index"
   },
