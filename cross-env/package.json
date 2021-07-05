@@ -9,5 +9,5 @@
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^5.0.5"
-  },
+  }
 }
