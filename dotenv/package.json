@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "dev": "node -r dotenv/config index.js"
+    "start:dev": "node -r dotenv/config index.js"
   },
   "devDependencies": {
     "dotenv": "^6.2.0"
